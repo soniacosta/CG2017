@@ -1,0 +1,3 @@
+/home/linux/Desktop/mega/MEGAsync/CG/trabalho/trabalho_2fase/CG_1617/CGfase2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/linux/Desktop/mega/MEGAsync/CG/trabalho/trabalho_2fase/CG_1617/CGfase2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/linux/Desktop/mega/MEGAsync/CG/trabalho/trabalho_2fase/CG_1617/CGfase2/cmake-build-debug/CMakeFiles/CGfase2.dir
